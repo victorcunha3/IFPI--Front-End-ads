@@ -1,0 +1,108 @@
+body{
+    background-color: grey;
+    margin: 30px;
+    font-family: arial;
+    
+
+}
+
+.container{
+    background-color: white;
+    margin:auto;
+    border: 50px solid white;
+    padding:20px;
+    width: 75%;
+    background-image: url(imagens/fundo-f1.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+
+    
+    
+}
+
+header{
+    border-bottom: 1px solid rgb(41, 36, 36);
+    border-left: 15px solid gray;
+
+}
+
+.img1{
+    float:right;
+    margin-top:-40px;
+}
+
+
+a.vis:link, a.vis:visited, a.vis:active {
+    text-decoration: none;
+    color: black;
+	}
+
+a.vis:hover {
+	text-decoration: underline;
+	color: yellow;
+	}
+
+
+
+
+.identacao {
+    margin-bottom: 0;
+    text-indent: 1.5em;
+    margin-top: 0; }
+
+
+ul{
+    list-style: none;
+}
+
+.pontilhada{
+    border-bottom: 1px;
+    border-bottom-style: dotted;
+}
+
+
+.pilotos-titulo{
+    text-indent: 3.5em;
+}
+
+table{
+    width: 100%;
+    
+}
+
+td{
+    font-size: x-large;
+}
+
+
+
+.fonte-negrito{
+    font-weight: bold;
+}
+
+.imagem1-f1{
+    width: 100%;
+    
+}
+
+.tamanho-imagem{
+    width: auto;
+    height: auto;
+}
+
+.tamanho-imagem-equipe{
+    width: 100px;
+}
+
+
+
+a.vis2:link, a.vis2:visited, a.vis2:active {
+    text-decoration: none;
+    color: black;
+	}
+
+a.vis2:hover {
+	text-decoration: underline;
+	color: yellow;
+	}
